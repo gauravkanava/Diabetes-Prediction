@@ -67,8 +67,3 @@ This project is an initial step toward diabetes prediction using machine learnin
 - Fine-tuning the model for better performance and interpretability.
 - Adding user authentication and data security features to the web interface.
 
-## Contributors
-
-- Gaurav kanava
-- Aadarsh Meena
-
